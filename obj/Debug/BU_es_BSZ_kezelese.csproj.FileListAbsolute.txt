@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\BU_es_BSZ_kezelese\BU_es_BSZ_kezelese\bin\Debug\BU_es_BSZ_kezelese.exe.config
+C:\Users\lenovo\source\repos\BU_es_BSZ_kezelese\BU_es_BSZ_kezelese\bin\Debug\BU_es_BSZ_kezelese.exe
+C:\Users\lenovo\source\repos\BU_es_BSZ_kezelese\BU_es_BSZ_kezelese\bin\Debug\BU_es_BSZ_kezelese.pdb
+C:\Users\lenovo\source\repos\BU_es_BSZ_kezelese\BU_es_BSZ_kezelese\obj\Debug\BU_es_BSZ_kezelese.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\BU_es_BSZ_kezelese\BU_es_BSZ_kezelese\obj\Debug\BU_es_BSZ_kezelese.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\BU_es_BSZ_kezelese\BU_es_BSZ_kezelese\obj\Debug\BU_es_BSZ_kezelese.exe
+C:\Users\lenovo\source\repos\BU_es_BSZ_kezelese\BU_es_BSZ_kezelese\obj\Debug\BU_es_BSZ_kezelese.pdb
